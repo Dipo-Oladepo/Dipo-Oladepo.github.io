@@ -193,8 +193,7 @@ em {
 
 @media screen and (min-width:600px) {
     .nav .nav-elements .branding {
-        width: 50%;
-        height: 400px;
+        width: 30%;
         margin: 0
     }
 }
@@ -435,7 +434,7 @@ em {
 /* portfolio*/
 
 #contactMe {
-    color: rgb(255, 243, 74);
+    color: rgb(12, 12, 12);
     font-size: 2rem;
     background-color: #ffffff
 }
